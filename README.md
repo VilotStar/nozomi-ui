@@ -6,3 +6,11 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/NozomiArim/nozomi-ui?style=plastic)
 
 The Nozomi main user interface made with love in rust
+
+
+# Build instructions
+```sh
+$ git clone https://github.com/Nozomiarim/nozomi-ui.git
+$ cd launcher 
+$ cargo build --release
+```
