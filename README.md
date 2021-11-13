@@ -11,6 +11,6 @@ The Nozomi main user interface made with love in rust
 # Build instructions
 ```sh
 $ git clone https://github.com/Nozomiarim/nozomi-ui.git
-$ cd launcher 
+$ cd nozomi-ui 
 $ cargo build --release
 ```
